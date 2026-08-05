@@ -19,6 +19,7 @@
 🌱 Currently learning
 
 - Machine Learning
+- AI Engineer
 - Data Analysis
 - Power BI
 - MERN Stack
